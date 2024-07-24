@@ -1,6 +1,8 @@
-# Bankist - When Banking Meets Minimalism
+# Bankist - When Banking Meets Minimalism 🏦
 
 Welcome to Bankist, a sleek and minimalist banking interface designed for simplicity and ease of use. This project leverages modern web technologies to provide a smooth user experience for performing banking operations online.
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/79986157/153561269-f3989c93-1755-401d-8d9a-bfb75d55a891.gif)
 
 ## Features
 
@@ -28,5 +30,3 @@ Welcome to Bankist, a sleek and minimalist banking interface designed for simpli
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/LujainSaad/Bankist.git
-
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/79986157/153561269-f3989c93-1755-401d-8d9a-bfb75d55a891.gif)
